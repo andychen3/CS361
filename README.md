@@ -4,7 +4,10 @@
 1. I send will over my Capitals_Microservice.py to you through teams.
 2. Put the file into the same folder as your project folder.
 3. You will then open up a terminal and cd into your project folder where this file is located.
-    3a. You then type "python Capitals_Microservice.py" or ""python3 Capitals_Microservice.py" depending on the version you have.
+    3a. You will download a virtual environment by typing 'python -m venv env'
+    3b. After that you will activate the virtual environment by typing 'source env/bin/activate'
+    3c. You will install the zmq module if you have not by typing 'pip install pyzmq'
+    3d. You then type "python Capitals_Microservice.py" or ""python3 Capitals_Microservice.py" depending on the version you have.
 4. This will then start running the microservice in the background.
 5. You open another terminal and run your project on it. 
 
