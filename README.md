@@ -22,3 +22,4 @@
 3. You can then set a result variable to the response.
 4. You then can use a method or module to parse the csv file assigned to the result variable and then you can manipulate the data however you want.
 
+![Screen Shot 2023-02-08 at 2 34 42 PM](https://user-images.githubusercontent.com/81591593/217634481-5721e1b6-41a7-4a74-8721-60d98ceba433.png)
